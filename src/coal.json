@@ -1,0 +1,1080 @@
+{
+  "name": "coal",
+  "children": [
+    {
+      "name": "1957",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 123209
+        },
+        {
+          "name": "Saar",
+          "size": 16290
+        },
+        {
+          "name": "Aachen",
+          "size": "7619"
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 2328
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 1335
+        }
+      ]
+    },
+    {
+      "name": "1965",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 11094
+        },
+        {
+          "name": "Saar",
+          "size": 14197
+        },
+        {
+          "name": "Aachen",
+          "size": 7619
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 2159
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 387
+        }
+      ]
+    },
+    {
+      "name": "1966",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 102909
+        },
+        {
+          "name": "Saar",
+          "size": 13679
+        },
+        {
+          "name": "Aachen",
+          "size": 7403
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1979
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 320
+        }
+      ]
+    },
+    {
+      "name": "1967",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 91050
+        },
+        {
+          "name": "Saar",
+          "size": 12412
+        },
+        {
+          "name": "Aachen",
+          "size": 7010
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 2221
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 251
+        }
+      ]
+    },
+    {
+      "name": "1968",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 91050
+        },
+        {
+          "name": "Saar",
+          "size": 11261
+        },
+        {
+          "name": "Aachen",
+          "size": 7299
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 2402
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 154
+        }
+      ]
+    },
+    {
+      "name": "1969",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 91194
+        },
+        {
+          "name": "Saar",
+          "size": 11076
+        },
+        {
+          "name": "Aachen",
+          "size": 6723
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 2637
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 150
+        }
+      ]
+    },
+    {
+      "name": "1970",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 91073
+        },
+        {
+          "name": "Saar",
+          "size": 10554
+        },
+        {
+          "name": "Aachen",
+          "size": 6886
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 2758
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 172
+        }
+      ]
+    },
+    {
+      "name": "1971",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 90731
+        },
+        {
+          "name": "Saar",
+          "size": 10677
+        },
+        {
+          "name": "Aachen",
+          "size": 6616
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 2771
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 258
+        }
+      ]
+    },
+    {
+      "name": "1972",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 83281
+        },
+        {
+          "name": "Saar",
+          "size": 10429
+        },
+        {
+          "name": "Aachen",
+          "size": 6247
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 2513
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 237
+        }
+      ]
+    },
+    {
+      "name": "1973",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 79883
+        },
+        {
+          "name": "Saar",
+          "size": 9175
+        },
+        {
+          "name": "Aachen",
+          "size": 5970
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 2311
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 260
+        }
+      ]
+    },
+    {
+      "name": "1974",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 78171
+        },
+        {
+          "name": "Saar",
+          "size": 8930
+        },
+        {
+          "name": "Aachen",
+          "size": 5827
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1948
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 350
+        }
+      ]
+    },
+    {
+      "name": "1975",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 75856
+        },
+        {
+          "name": "Saar",
+          "size": 8974
+        },
+        {
+          "name": "Aachen",
+          "size": 5749
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1814
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 396
+        }
+      ]
+    },
+    {
+      "name": "1976",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 72794
+        },
+        {
+          "name": "Saar",
+          "size": 9295
+        },
+        {
+          "name": "Aachen",
+          "size": 5383
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1797
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 329
+        }
+      ]
+    },
+    {
+      "name": "1978",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 67111
+        },
+        {
+          "name": "Saar",
+          "size": 9278
+        },
+        {
+          "name": "Aachen",
+          "size": 5029
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 2123
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 395
+        }
+      ]
+    },
+    {
+      "name": "1980",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 69134
+        },
+        {
+          "name": "Saar",
+          "size": 10128
+        },
+        {
+          "name": "Aachen",
+          "size": 5121
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 2191
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 572
+        }
+      ]
+    },
+    {
+      "name": "1982",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 70240
+        },
+        {
+          "name": "Saar",
+          "size": 11008
+        },
+        {
+          "name": "Aachen",
+          "size": 4988
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 2206
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 572
+        }
+      ]
+    },
+    {
+      "name": "1984",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 61217
+        },
+        {
+          "name": "Saar",
+          "size": 10249
+        },
+        {
+          "name": "Aachen",
+          "size": 5090
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 2302
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 569
+        }
+      ]
+    },
+    {
+      "name": "1986",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 62760
+        },
+        {
+          "name": "Saar",
+          "size": 10428
+        },
+        {
+          "name": "Aachen",
+          "size": 4739
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 2335
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 539
+        }
+      ]
+    },
+    {
+      "name": "1988",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 56379
+        },
+        {
+          "name": "Saar",
+          "size": 9917
+        },
+        {
+          "name": "Aachen",
+          "size": 4254
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 2322
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 431
+        }
+      ]
+    },
+    {
+      "name": "1990",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 54556
+        },
+        {
+          "name": "Saar",
+          "size": 9719
+        },
+        {
+          "name": "Aachen",
+          "size": 3443
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 2044
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 396
+        }
+      ]
+    },
+    {
+      "name": "1992",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 51261
+        },
+        {
+          "name": "Saar",
+          "size": 9139
+        },
+        {
+          "name": "Aachen",
+          "size": 3119
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1984
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 396
+        }
+      ]
+    },
+    {
+      "name": "1994",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 40245
+        },
+        {
+          "name": "Saar",
+          "size": 8256
+        },
+        {
+          "name": "Aachen",
+          "size": 1503
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1981
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 421
+        }
+      ]
+    },
+    {
+      "name": "1996",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 37987
+        },
+        {
+          "name": "Saar",
+          "size": 7325
+        },
+        {
+          "name": "Aachen",
+          "size": 1001
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1600
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 283
+        }
+      ]
+    },
+    {
+      "name": "1998",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 32417
+        },
+        {
+          "name": "Saar",
+          "size": 6546
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1700
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 297
+        }
+      ]
+    },
+    {
+      "name": "1999",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 31137
+        },
+        {
+          "name": "Saar",
+          "size": 6404
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1699
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 283
+        }
+      ]
+    },
+    {
+      "name": "2000",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 25889
+        },
+        {
+          "name": "Saar",
+          "size": 5736
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1684
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 282
+        }
+      ]
+    },
+    {
+      "name": "2001",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 20006
+        },
+        {
+          "name": "Saar",
+          "size": 5295
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1753
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 307
+        }
+      ]
+    },
+    {
+      "name": "2002",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 18926
+        },
+        {
+          "name": "Saar",
+          "size": 5364
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1798
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 275
+        }
+      ]
+    },
+    {
+      "name": "2003",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 18191
+        },
+        {
+          "name": "Saar",
+          "size": 5622
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1871
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 189
+        }
+      ]
+    },
+    {
+      "name": "2004",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 17765
+        },
+        {
+          "name": "Saar",
+          "size": 6014
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1912
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 181
+        }
+      ]
+    },
+    {
+      "name": "2005",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 18069
+        },
+        {
+          "name": "Saar",
+          "size": 4731
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1913
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 194
+        }
+      ]
+    },
+    {
+      "name": "2006",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 15133
+        },
+        {
+          "name": "Saar",
+          "size": 3629
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1912
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 209
+        }
+      ]
+    },
+    {
+      "name": "2007",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 15874
+        },
+        {
+          "name": "Saar",
+          "size": 3526
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1907
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 224
+        }
+      ]
+    },
+    {
+      "name": "2008",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 14216
+        },
+        {
+          "name": "Saar",
+          "size": 957
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1904
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 94
+        }
+      ]
+    },
+    {
+      "name": "2009",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 10913
+        },
+        {
+          "name": "Saar",
+          "size": 962
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1891
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "2010",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 9606
+        },
+        {
+          "name": "Saar",
+          "size": 1326
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1968
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "2011",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 8647
+        },
+        {
+          "name": "Saar",
+          "size": 1406
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 2006
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "2012",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 8416
+        },
+        {
+          "name": "Saar",
+          "size": 395
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1959
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "2013",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 5655
+        },
+        {
+          "name": "Saar",
+          "size": 0
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1911
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "2014",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 5689
+        },
+        {
+          "name": "Saar",
+          "size": 0
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1951
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "2015",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 4589
+        },
+        {
+          "name": "Saar",
+          "size": 0
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1634
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "2016",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 2543
+        },
+        {
+          "name": "Saar",
+          "size": 0
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1306
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "2017",
+      "children": [
+        {
+          "name": "Ruhr",
+          "size": 2664
+        },
+        {
+          "name": "Saar",
+          "size": 0
+        },
+        {
+          "name": "Aachen",
+          "size": 0
+        },
+        {
+          "name": "Ibbenb\u00fcren",
+          "size": 1005
+        },
+        {
+          "name": "Kleinzechen",
+          "size": 0
+        }
+      ]
+    }
+  ]
+}
