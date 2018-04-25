@@ -1,0 +1,21 @@
+Aufgabe 1:
+    db.emp.find({sal: {$gt: 2500}}) 
+Aufgabe 2:
+    db.emp.aggregate([{$match: {sal: {$gt: 2500, $lt:2900}}, {$project: {ename: 1}}, {$sort: {ename: 1}}}])
+Aufgabe 3:
+    db.emp.aggregate([{$lookup: {from: "dept, localField: "dept", foreignField: "name", as: loc}}, {$match: {sal: {$gt: 1000}}, "loc.loc": "DALLAS"}])
+Aufgabe 4: 
+    db.emp.insertOne({name: "JOHN DOE", sal: 3100, job: "SALESMAN"})
+Aufgabe 5:
+    db.emp.updateOne({ename: "KING"},{$set: {sal: 5300}})
+Aufgabe 6:
+    db.createView("sales", "emp", [{$match: {dept: "SALES"}}])
+Aufgabe 7:
+    var mapFunction1 = function() {
+                       emit(this.dept, this.ename);
+                   };
+    var reduceFunction1 = function(a, b) {
+                          return b.length;
+                      };
+    db.emp.mapReduce(mapFunction1,reduceFunction1, {out: "map-reduce"})
+    db.map-reduce.find();
